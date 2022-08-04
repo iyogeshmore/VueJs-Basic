@@ -1,6 +1,6 @@
  # VueJs-Basic
 
-Steps for creating new project : 
+Steps for creating new project : <br>
 1.vue create <Project Name> OR
 npm init vite-app <Project Name> <br>
 
